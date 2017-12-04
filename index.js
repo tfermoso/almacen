@@ -148,3 +148,4 @@ console.log(alm1.comprar("star trek",342))
 console.log(alm1.comprar("star trek",342))
 console.log(alm1.comprar("star trek",342))
 console.log(alm1);
+console.log(alm1);
